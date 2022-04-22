@@ -1,0 +1,23 @@
+{
+  "name": "robotcarsdu_hardware3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fnux8890/robotcarSdu_Hardware3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fnux8890/robotcarSdu_Hardware3/issues"
+  },
+  "homepage": "https://github.com/Fnux8890/robotcarSdu_Hardware3#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
